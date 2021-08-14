@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yacan8/valentine.git"
+    "url": "git+https://github.com/mavsforlife/valentine.git"
   },
   "author": "can.yang",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yacan8/valentine/issues"
+    "url": "https://github.com/mavsforlife/valentine/issues"
   },
-  "homepage": "https://github.com/yacan8/valentine#readme",
+  "homepage": "https://github.com/mavsforlife/valentine#readme",
   "dependencies": {
     "prismjs": "^1.17.1",
     "react": "16.0",
